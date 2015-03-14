@@ -1,0 +1,1 @@
+The Hello, World! tutorial is now hosted on [docs.tipfy.org](http://docs.tipfy.org/tutorials/hello-world.html)
